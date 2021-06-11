@@ -1,0 +1,19 @@
+/node_modules/
+/build/
+
+node_modules
+
+#Buidler files
+cache
+artifacts
+coverage
+coverage.json
+
+#Envs
+.env
+
+#Scripts
+/scripts/encode-output.json
+
+#VSCode 
+.vscode/settings.json
